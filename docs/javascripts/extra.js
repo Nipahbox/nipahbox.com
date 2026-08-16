@@ -1,0 +1,34 @@
+
+document.querySelectorAll(".spoiler").forEach(spoiler => {
+  const content = document.createElement("span");
+  content.className = "spoiler-content";
+  content.textContent = spoiler.textContent;
+
+  const description = document.createElement("span");
+  description.className = "spoiler-description";
+  description.textContent = spoiler.dataset.description || "SPOILER ABI DUR";
+
+  spoiler.textContent = "";
+  spoiler.append(content, description);
+
+  spoiler.addEventListener("click", () => {
+    spoiler.classList.toggle("revealed");
+    description.style.opacity =
+      spoiler.classList.contains("revealed") ? "0" : "1";
+  });
+
+  spoiler.addEventListener("mousemove", event => {
+    description.style.left = `${event.clientX}px`;
+    description.style.top = `${event.clientY + 13}px`;
+  });
+
+  spoiler.addEventListener("mouseenter", () => {
+    if (!spoiler.classList.contains("revealed")) {
+      description.style.opacity = "1";
+    }
+  });
+
+  spoiler.addEventListener("mouseleave", () => {
+    description.style.opacity = "0";
+  })
+});

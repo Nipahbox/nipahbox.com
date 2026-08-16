@@ -1,0 +1,15 @@
+[data-md-color-scheme="slate"] .highlight {
+    color: rgb(255, 132, 0);
+}
+
+[data-md-color-scheme="default"] .highlight {
+    color: rgb(176, 70, 0);
+}
+
+[data-md-color-scheme="slate"] .warning-text {
+    color: antiquewhite;
+}
+
+[data-md-color-scheme="default"] .warning-text {
+    color: rgb(25, 25, 25);
+}
