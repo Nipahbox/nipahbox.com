@@ -1,4 +1,4 @@
-
+// spoiler tag and spoiler description
 document.querySelectorAll(".spoiler").forEach(spoiler => {
   const content = document.createElement("span");
   content.className = "spoiler-content";
@@ -31,4 +31,27 @@ document.querySelectorAll(".spoiler").forEach(spoiler => {
   spoiler.addEventListener("mouseleave", () => {
     description.style.opacity = "0";
   })
+});
+
+// open external links in new tab
+function openExternalLinksInNewTab() {
+  const content = document.querySelector(".md-content");
+
+  if (!content) return;
+
+  const links = content.querySelectorAll("a[href]");
+
+  links.forEach((link) => {
+    const isExternal =
+      link.hostname !== window.location.hostname;
+
+    if (!isExternal) return;
+
+    link.target = "_blank";
+    link.rel = "noopener noreferrer";
+  });
+}
+
+document$.subscribe(() => {
+  openExternalLinksInNewTab()
 });
