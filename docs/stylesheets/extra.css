@@ -141,15 +141,15 @@
   font-size: 1.5rem;
   font-weight: bold;
   box-shadow: 0 6px 20px var(--md-default-bg-color);
-  text-shadow: 0 2px 3px var(--md-default-bg-color);
+  text-shadow: 0 2px 2px var(--md-default-bg-color);
   opacity: 0;
   transform: translate(-75%, -40%);
   pointer-events: none;
   z-index: 999;
 
   transition:
-    opacity 180ms ease,
-    transform 180ms ease;
+    opacity 150ms ease,
+    transform 150ms ease;
 }
 
 .copy-message.show {

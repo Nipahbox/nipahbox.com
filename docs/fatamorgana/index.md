@@ -5,14 +5,14 @@ icon: lucide/info
 ---
 
 ??? info "Sayfanın amacı"
-    Bu sayfa genel olarak The House in Fata Morgana görsel romanını deneyimlemeden once hakkında bilgi edinmek isteyenler için yapılmıştır.<br>
+    Bu sayfa genel olarak The House in Fata Morgana görsel romanını deneyimlemeden önce hakkında bilgi edinmek isteyenler için yapılmıştır.<br>
     Direkt kuruluma geçmek istiyorsanız sol taraftan kuruluma ulaşabilirsiniz.
 
 # The House in Fata Morgana hakkında
 
 ---
 
-![The House in Fata Morgana logo](../images/fatamoru-logo.webp){ width="800px" }
+![The House in Fata Morgana'nın logosu](../images/fatamoru-logo.webp){ width="800px" }
 
 ---
 
@@ -32,7 +32,7 @@ Yıkık dökük eskimiş bir köşkte uyanıyorsun. Hizmetçiye benzeyen bir kad
 
 Hizmetçi, bu köşkteki ziyaretçilerin başına gelmiş sayısız trajediyi gözlerinin önüne sermek için Seni geçmişte bir yolculuğa çıkarıyor. Aralarından birinde, kendi izlerini bulman umuduyla.
 
-> Altımda uzanan cesede bakıyordum. Kendi cesedime. Çarmıha gerileceğim yere doğru sürüklenişini gördüğümde derin bir umutsuzluğa kapılmıştım. Ruhum paramparça oldu, ve büsbütün söndüm. Doğrusu, vaktiyle her şeyimi yitirdim. Lâkin... ebedî karanlığın içine doğru kaybolurken, beni çağıran bir ses işittim. Ve böylece, bir kez daha ant içtim ki, ne kadar uzun sürerse sürsün, karşıma çıkan engeller ne kadar büyük olursa olsun, veya hangi şekle bürünürsen bürün, senin için geri döneceğim.
+> Lâkin... ebedî karanlığın içine doğru kaybolurken, beni çağıran bir ses işittim. Ve böylece, bir kez daha ant içtim ki, ne kadar uzun sürerse sürsün, karşıma çıkan engeller ne kadar büyük olursa olsun, veya hangi şekle bürünürsen bürün, senin için geri döneceğim.
 
 >O eve geri dönmeliyim.
 
@@ -44,7 +44,7 @@ Hanada 1 yıldan fazla bir süre boyunca hikayeyi planladı. Zaman zaman edebi b
 
 Moyataro'nun sanat tarzı Japon Anime tarzına değil, gerçekçi hatlara ve renklere sahip bir tarza yakındı, bundan mütevellit bu oyun çoğu görsel romanda görmeye alışık olmadığımız bir çizim estetiğine sahip.
 
-Oyunun bana yeni bir paragraf açtıran bir diğer eşsiz yanı ise müzikleri: Bu album üzerinde beş farklı besteci toplam 65 farklı parça/şarkı yazdı. Yarısından fazlası Portekizce sözler içeren bu Neoklasik, Orkestral müzikler kesinlikle sizi hikayenin içerisine dahil eden ve deneyiminizi başka bir boyuta taşıyacak yegâne etkenlerden biri.
+Oyunun bana yeni bir paragraf açtıran bir diğer eşsiz yanı ise müzikleri: Bu albüm üzerinde beş farklı besteci toplam 65 farklı parça/şarkı yazdı. Yarısından fazlası Portekizce sözler içeren bu Neoklasik, Orkestral müzikler kesinlikle sizi hikayenin içerisine dahil eden ve deneyiminizi başka bir boyuta taşıyacak yegâne etkenlerden biri.
 
 ## Yeniden yapım & Serideki diğer oyunlar
 <figure style="float: left; margin-right: 1em;">

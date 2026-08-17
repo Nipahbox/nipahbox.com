@@ -41,7 +41,7 @@ Keika Hanada, The House in Fata Morgana görsel romanı ile tanınan Japon video
 -  Rose & Camellia and Fata Morgana (2014)
 -  [The House in Fata Morgana: A Requiem for Innocence](https://nipahbox.com/fatamorgana/#a-requiem-for-innocence) (2015)
 -  [The House in Fata Morgana: Reincarnation](https://nipahbox.com/fatamorgana/#reincarnation) (2017)
--  NarKarma EngineA (Duyurulacak)
+-  NarKarma EngineA (Duyurulacak, 2017'den beri "on hold" durumda.)
 -  [The House in Fata Morgana: Dreams of the Revenants](https://nipahbox.com/fatamorgana/#dreams-of-the-revenants) (2019)
 -  [Project Code Name M](https://novect.net/m_en/) (Duyurulacak)
 

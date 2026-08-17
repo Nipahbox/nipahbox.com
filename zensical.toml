@@ -19,10 +19,10 @@ nav = [
     { "Fata Morgana hakkında" = "fatamorgana/index.md" },
   ] },
   { "Çeviri" = [
-    { "Çeviri Kurulumu" = "fatamorgana/installation.md" },
+    { "Çeviri Kurulumu" = "fatamorgana/kurulum.md" },
   ] },
     { "Daha fazla bilgi" = [
-    "fatamorgana/author.md",
+    "fatamorgana/yazar.md",
     "fatamorgana/NOVECT.md",
     ] },
  ] },
@@ -32,7 +32,10 @@ extra_css = [
   "stylesheets/extra.css",
   "stylesheets/admonition.css"
 ]
-extra_javascript = ["javascripts/extra.js"]
+extra_javascript = [
+    "javascripts/extra.js",
+    "javascripts/permalink.js"
+]
 
 [project.theme]
 # variant = "classic"
@@ -115,7 +118,12 @@ zensical.extensions.glightbox = {
   skip_classes = ["no-lightbox"]
 }
 toc = {
-  permalink = true
+  permalink = "Ω",
+  title = "Bu sayfadakiler",
+  permalink_title = "Bu bölümün bağlantısını kopyala",
+  slugify.object = "pymdownx.slugs.slugify",
+  slugify.kwds.case = "lower",
+  toc_depth = 5
 }
 pymdownx.arithmatex = {
   generic = true

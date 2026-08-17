@@ -46,5 +46,5 @@ function copyMessage() {
 
   message.hideTimeout = setTimeout(() => {
     message.classList.remove("show")
-  }, 1500);
+  }, 1000);
 }
