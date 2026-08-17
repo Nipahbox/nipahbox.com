@@ -99,3 +99,60 @@
 .spoiler.revealed .spoiler-description {
     opacity: 0;
 }
+
+/* logo size */
+.twitter-logo {
+    display: inline-block;
+    font-size: 2rem;
+    vertical-align: middle;
+}
+
+@keyframes twitter-hover {
+    0%, 100% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(2);
+        transform: scaleY(2);
+    }
+
+    75% {
+        transform: scale(0.5);
+    }
+}
+
+.twitter-logo:hover {
+    animation: twitter-hover 0.3s ease;
+}
+
+.twitter-logo:visited {
+    opacity: 0.1;
+}
+
+.copy-message {
+  position: fixed;
+  top: 100%;
+  left: 50%;
+  padding: 10px 10px;
+  border-radius: 10px;
+  background: var(--md-default-fg-color);
+  color: var(--md-default-bg-color);
+  font-size: 1.5rem;
+  font-weight: bold;
+  box-shadow: 0 6px 20px var(--md-default-bg-color);
+  text-shadow: 0 2px 3px var(--md-default-bg-color);
+  opacity: 0;
+  transform: translate(-75%, -40%);
+  pointer-events: none;
+  z-index: 999;
+
+  transition:
+    opacity 180ms ease,
+    transform 180ms ease;
+}
+
+.copy-message.show {
+  opacity: 1;
+  transform: translate(-75%, -125%);
+}
