@@ -5,7 +5,7 @@ icon: lucide/info
 ---
 
 ??? info "Sayfanın amacı"
-    Bu sayfa genel olarak The House in Fata Morgana görsel romanını deneyimlemeden önce hakkında bilgi edinmek isteyenler için yapılmıştır.<br>
+    Bu sayfa genel olarak The House in Fata Morgana görsel romanını deneyimlemeden önce hakkında bilgi sahibi olmak isteyenler için yapılmıştır.<br>
     Direkt kuruluma geçmek istiyorsanız sol taraftan kuruluma ulaşabilirsiniz.
 
 # The House in Fata Morgana hakkında
@@ -32,9 +32,11 @@ Yıkık dökük eskimiş bir köşkte uyanıyorsun. Hizmetçiye benzeyen bir kad
 
 Hizmetçi, bu köşkteki ziyaretçilerin başına gelmiş sayısız trajediyi gözlerinin önüne sermek için Seni geçmişte bir yolculuğa çıkarıyor. Aralarından birinde, kendi izlerini bulman umuduyla.
 
-> Lâkin... ebedî karanlığın içine doğru kaybolurken, beni çağıran bir ses işittim. Ve böylece, bir kez daha ant içtim ki, ne kadar uzun sürerse sürsün, karşıma çıkan engeller ne kadar büyük olursa olsun, veya hangi şekle bürünürsen bürün, senin için geri döneceğim.
+> Bir ev var, karanlık ve sık ormanların ötesinde. Tıpkı bir rüyanın ardından dünyanın usulca belirginleşmesi gibi, o kadim köşk Senin karşında belirir. Farkında olmadan, gözlerinin önünde gelişen bu olayları içgüdüsel biçimde hakikat olarak kabul edersin. Sayısız yazgının ve neslin harmanı olan o ev ebediyen yaşar. 
 
->O eve geri dönmeliyim.
+>İlk kim söyledi bilinmez,
+
+>o köşkün lanetli olduğunu.
 
 ## Süreç & Tema
 

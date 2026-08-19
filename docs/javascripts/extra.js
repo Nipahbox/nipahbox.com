@@ -55,3 +55,20 @@ function openExternalLinksInNewTab() {
 document$.subscribe(() => {
   openExternalLinksInNewTab()
 });
+
+
+let loveInput = "";
+document$.subscribe(function () {
+  document.addEventListener("keydown", function (event) {
+    if (event.key.length !== 1) return;
+    if (event.key === " ") return;
+
+      loveInput += event.key.toLowerCase();
+    loveInput = loveInput.slice(-8);
+
+    if (loveInput === "iloveyou") {
+      window.location.href("https://youtu.be/7GIWV__qx4M");
+    }
+    loveInput = "";
+  });
+});
