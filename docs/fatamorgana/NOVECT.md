@@ -6,7 +6,8 @@ icon: lucide/building-2
 
 # NOVECT
 <hr>
-![NOVECT'in Logosu](../images/novect-logo.webp)
+![NOVECT'in Logosu](../images/novect-logo.webp#only-dark)
+![NOVECT'in Logosu](../images/NOVECT-light.webp#only-light)
 <hr>
 
 Eskiden **Novectacle** olarak bilinen **NOVECT**, *[Keika Hanada](https://nipahbox.com/fatamorgana/yazar)* tarafından yönetilen ve 2010'da kurulmuş Japon bağımsız video oyun stüdyosudur. *[The House in Fata Morgana](https://nipahbox.com/fatamorgana)* görsel romanı ile tanınıyorlar ve şu anda aktif olarak *[Project Code Name M](https://novect.net/m_en/)*'i geliştiriyorlar.
@@ -40,3 +41,8 @@ Eskiden **Novectacle** olarak bilinen **NOVECT**, *[Keika Hanada](https://nipahb
 ## Ordan Burdan Bilgiler
 
 - NOVECT'in geçmişteki adı Novectacle aslında iki kelimenin kombinasyonu: "Novel + Spectacle" (Roman + Gösteri). Yeni isimlerinde ise daha farklı bir anlam için "Nova + Vector" kelimelerini birleştirdiler.
+
+<figure style="float: center;">
+    <img src="../images/novectacle-logo.png" alt="NOVECT'in eski logosu" width="250px"></img>
+    <figcaption>NOVECT'in geçmişteki logosu.</figcaption>
+</figure>
